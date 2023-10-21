@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Alice",
+        "class_name": "Class 3A",
+        "marks": [
+            {
+                "value": "5",
+                "subject": "math ez",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math ez",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math mild",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math mild",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math ez",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math mild",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            }
+        ]
+    },
+    {
+        "name": "Tomik Bobik",
+        "class_name": "4ITA",
+        "marks": [
+            {
+                "value": "5",
+                "subject": "math ez",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math mild",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math ez",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            }
+        ]
+    },
+    {
+        "name": "Pepes Sranec ",
+        "class_name": "4ITA",
+        "marks": [
+            {
+                "value": "4",
+                "subject": "math ez",
+                "description": "You must improve, unless you want to fail the class..."
+            },
+            {
+                "value": "5",
+                "subject": "math ez",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            },
+            {
+                "value": "5",
+                "subject": "math mild",
+                "description": "You are done. Fired. Do not show your face at the laundry again."
+            }
+        ]
+    }
+]

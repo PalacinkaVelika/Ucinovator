@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(41, 41, 41);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.parent-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.input-container {
+    background-color: rgb(46, 0, 46);
+    border: 2px solid #ffee00; /* Border style */
+    border-style: groove;
+    padding: 30px; /* Add some padding for spacing */
+    font-weight: bold; /* Make the text bold */
+    width: 400px;
+    min-height: 100px;
+    align-items: center;
+    margin-right: 40px;
+}
+.input-container input {
+    width: 300px; 
+    padding: 5px;
+}
+.input-container button {
+    width: 150px;
+    height: 50px; 
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#question-container {
+    background-color: rgb(46, 0, 46);
+    border: 2px solid #ffee00; /* Border style */
+    border-style: groove;
+    padding: 10px; /* Add some padding for spacing */
+    font-weight: bold; /* Make the text bold */
+    width: 800px;
+    min-height: 200px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#ans-checker {
+    background-color: rgb(46, 0, 46);
+    border: 2px solid #ffee00; /* Border style */
+    border-style: groove;
+    padding: 10px; /* Add some padding for spacing */
+    font-weight: bold; /* Make the text bold */
+    width: 800px;
+    min-height: 200px;
+}
+#ans-checker h2{
+    text-align: left;
+    padding-left: 30px;
+}
+.awesome-title {
+    font-size: 80px;
+    font-weight: bold;
+    color: #ffee00;
+    margin-top: -100px;
+}
+.content-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.green {
+    color: rgb(77, 255, 0); /* Set the desired color here */
+}
+.idk{
+    color: rgb(255, 47, 238)
+}
+.counter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    margin: 5px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 50px;
+}
+.counter button {
+    font-size: 20px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.red{
+    color:red;
+}

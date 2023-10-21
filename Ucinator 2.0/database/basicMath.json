@@ -1,0 +1,74 @@
+{
+    "question1": {
+      "text": "How much is {x} {o} {y}?",
+      "x": {
+        "type": "number",
+        "min": 0,
+        "max": 10
+      },
+      "y": {
+        "type": "number",
+        "min": 5,
+        "max": 21
+      },
+      "o": {
+        "type": "operation",
+        "values": ["+", "-", "*", "/"]
+      },
+      "answer": "{x} {o} {y}"
+    },
+    "question2": {
+      "text": "If you have {x} apples and give away {y}, how many apples do you have left?",
+      "x": {
+        "type": "number",
+        "min": 10,
+        "max": 50
+      },
+      "y": {
+        "type": "number",
+        "min": 1,
+        "max": 10
+      },
+      "o": {
+        "type": "operation",
+        "values": ["-"]
+      },
+      "answer": "{x} {o} {y}"
+    },
+    "question3": {
+      "text": "You have {x} candies, and your friend gives you {y} more. How many candies do you have now?",
+      "x": {
+        "type": "number",
+        "min": 0,
+        "max": 30
+      },
+      "y": {
+        "type": "number",
+        "min": 1,
+        "max": 20
+      },
+      "o": {
+        "type": "operation",
+        "values": ["+"]
+      },
+      "answer": "{x} {o} {y}"
+    },
+    "question4": {
+        "text": "how much is {x} {o} {x}",
+        "x": {
+          "type": "number",
+          "min": 0,
+          "max": 10
+        },
+        "y": {
+          "type": "number",
+          "min": 1,
+          "max": 10
+        },
+        "o": {
+          "type": "operation",
+          "values": ["*", "**", "+"]
+        },
+        "answer": "{x} {o} {x}"
+      }
+  }

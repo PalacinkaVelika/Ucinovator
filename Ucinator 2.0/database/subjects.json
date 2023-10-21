@@ -1,0 +1,144 @@
+[
+    {
+        "name": "math mild",
+        "teacher": "Camille Balling",
+        "description": "This is TRIVIAL!!! You should know this since THE FIRST GRADE!!!!!!",
+        "test_file_name": "midMath",
+        "tasks_answered": [
+            {
+                "question": "Idk im too lazy to make it tonight.. Whats 10 * 18 * 10",
+                "answer": 180.0,
+                "correct": false,
+                "student_answer": "1"
+            }
+        ]
+    },
+    {
+        "name": "math ez",
+        "teacher": "Terry Berry",
+        "description": "Quite easy, quite relaxing.",
+        "test_file_name": "basicMath",
+        "tasks_answered": [
+            {
+                "question": "If you have 16 apples and give away 6, how many apples do you have left?",
+                "answer": 10.0,
+                "correct": false,
+                "student_answer": "a"
+            },
+            {
+                "question": "How much is 0 + 15?",
+                "answer": 15.0,
+                "correct": false,
+                "student_answer": "a"
+            },
+            {
+                "question": "how much is 8 * 8",
+                "answer": 64.0,
+                "correct": false,
+                "student_answer": "a"
+            },
+            {
+                "question": "You have 22 candies, and your friend gives you 4 more. How many candies do you have now?",
+                "answer": 26.0,
+                "correct": false,
+                "student_answer": "a"
+            },
+            {
+                "question": "You have 3 candies, and your friend gives you 20 more. How many candies do you have now?",
+                "answer": 23.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "If you have 32 apples and give away 10, how many apples do you have left?",
+                "answer": 22.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "how much is 1 * 1",
+                "answer": 1.0,
+                "correct": true,
+                "student_answer": "1"
+            },
+            {
+                "question": "How much is 0 * 8?",
+                "answer": 0.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "You have 5 candies, and your friend gives you 13 more. How many candies do you have now?",
+                "answer": 18.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "If you have 46 apples and give away 10, how many apples do you have left?",
+                "answer": 36.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "How much is 5 * 20?",
+                "answer": 100.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "how much is 2 + 2",
+                "answer": 4.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "How much is 10 - 18?",
+                "answer": -8.0,
+                "correct": true,
+                "student_answer": "-8"
+            },
+            {
+                "question": "how much is 8 * 8",
+                "answer": 64.0,
+                "correct": true,
+                "student_answer": "64"
+            },
+            {
+                "question": "You have 15 candies, and your friend gives you 7 more. How many candies do you have now?",
+                "answer": 22.0,
+                "correct": true,
+                "student_answer": "22"
+            },
+            {
+                "question": "If you have 27 apples and give away 4, how many apples do you have left?",
+                "answer": 23.0,
+                "correct": true,
+                "student_answer": "23"
+            },
+            {
+                "question": "How much is 6 + 16?",
+                "answer": 22.0,
+                "correct": false,
+                "student_answer": "2"
+            },
+            {
+                "question": "If you have 35 apples and give away 4, how many apples do you have left?",
+                "answer": 31.0,
+                "correct": false,
+                "student_answer": "3"
+            },
+            {
+                "question": "You have 25 candies, and your friend gives you 17 more. How many candies do you have now?",
+                "answer": 42.0,
+                "correct": false,
+                "student_answer": "1"
+            },
+            {
+                "question": "how much is 4 ** 4",
+                "answer": 256.0,
+                "correct": false,
+                "student_answer": "5"
+            }
+        ]
+    }
+]

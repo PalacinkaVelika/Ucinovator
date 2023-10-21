@@ -1,0 +1,24 @@
+{
+    "question1": {
+      "text": "Idk im too lazy to make it tonight.. Whats {x} {o} {y} {o1} {x}",
+      "x": {
+        "type": "number",
+        "min": 0,
+        "max": 10
+      },
+      "y": {
+        "type": "number",
+        "min": 5,
+        "max": 21
+      },
+      "o": {
+        "type": "operation",
+        "values": ["+", "-", "*", "/"]
+      },
+      "o1": {
+        "type": "operation",
+        "values": ["+", "-", "*", "/"]
+      },
+      "answer": "{x} {o} {y}"
+    }
+}
